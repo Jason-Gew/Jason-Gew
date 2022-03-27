@@ -4,19 +4,25 @@ Senior Software Development Engineer, [Oracle Certified Professional](https://ww
 Engaged in PaaS Cloud / Distributed Systems, Big Data Analytical Engine, IoT End-2-End Solutions,
 Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 
+## Skills
+- **Java** | Spring MVC, Spring Cloud, JPA / Hivernate, JMS and etc.
+- **Python** | Flask, SQLAlchemy and etc.
+- **Big Data** | Spark DataFrame, Spark SQL, Spark MLlib, HiveQL, ~~MapReduce~~
+- **JavaScript** | ReactJS, AntD, Bootstrap
+
 
 ## Contact
 - **Email** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jason.ge.wu[@]()gmail.com &nbsp;
 - **LinkedIn** : https://www.linkedin.com/in/ge-wu
-- **Blog**  : https://jason-gew.github.io/
+- **Blog**  : &nbsp;&nbsp;&nbsp;&nbsp; https://jason-gew.github.io &nbsp;
 
 
-## Slogan:
+## Slogan
 > Life is not only about code and work, but also fulfill with great moments. 
 > Traveling thousands of miles, better than reading thousands of web-pages online.
 
 
-## Interests:
+## Interests
 - Travel ✈️ 🌎 🚢
 - Movie 📽️ 👀
 - Music 🎹 🎧
@@ -27,6 +33,6 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 ---
 <img src="https://lc-gluttony.s3.amazonaws.com/xavRfmuNYmLc/982db92253904dbc1bc4.jpg/Vancouver-Cove-Forest-Jason.jpg" 
     alt="View" width="100%" height="100%"  ondragstart="return false;"  onContextMenu="return false;"
-    style="zoom:60%;"
+    style="zoom:50%;"
 />
 ---
