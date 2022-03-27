@@ -5,16 +5,16 @@ Engaged in PaaS Cloud / Distributed Systems, Big Data Analytical Engine, IoT End
 Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 
 ## Skills
-- **Java** | Spring MVC, Spring Cloud, JPA / Hivernate, JMS and etc.
-- **Python** | Flask, SQLAlchemy and etc.
-- **Big Data** | Spark DataFrame, Spark SQL, Spark MLlib, HiveQL, ~~MapReduce~~
+- **Java** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Spring MVC, Spring Cloud, JPA / Hivernate, JMS and etc.
+- **Python** &nbsp;&nbsp;&nbsp;&nbsp;| Flask, SQLAlchemy and etc.
+- **Big Data** &nbsp;&nbsp;| Spark DataFrame, Spark SQL, Spark MLlib, HiveQL, ~~MapReduce~~
 - **JavaScript** | ReactJS, AntD, Bootstrap
 
 
 ## Contact
 - **Email** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jason.ge.wu[@]()gmail.com &nbsp;
 - **LinkedIn** : https://www.linkedin.com/in/ge-wu
-- **Blog**  : &nbsp;&nbsp;&nbsp;&nbsp; https://jason-gew.github.io &nbsp;
+- **Blog**  : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://jason-gew.github.io &nbsp;
 
 
 ## Slogan
