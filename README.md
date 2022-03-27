@@ -19,7 +19,6 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 
 ## Contact
 - **Email** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jason.ge.wu[@]()gmail.com &nbsp;
-- **LinkedIn** : https://www.linkedin.com/in/ge-wu
 - **Blog** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://jason-gew.github.io
 
 
