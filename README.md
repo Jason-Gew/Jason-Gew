@@ -1,27 +1,26 @@
-
 ## Introduction
+
 Senior Software Development Engineer, [Oracle Certified Professional](https://www.youracclaim.com/badges/a5f980ab-e5d8-4ae4-96b8-f6615423dd6e/public_url) Java Developer. 
 Engaged in PaaS Cloud / Distributed Systems, Big Data Analytical Engine, IoT End-2-End Solutions,
 Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 
+
 ## Skills
 
-
-- **P**
-- **Java** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Spring MVC, Spring Cloud, JPA / Hivernate, JMS and etc.
-- **Python** &nbsp;&nbsp;&nbsp;&nbsp; | Flask, SQLAlchemy and etc.
-- **Big Data** &nbsp;&nbsp; | Spark DataFrame, Spark SQL, Spark MLlib, HiveQL, ~~MapReduce~~
-- **JavaScript** | ReactJS, AntD, Bootstrap
-
-## Contact
 |        Name         | Content                                                          |
 | :-----------------: | ---------------------------------------------------------------- |
-| Project Management  | Scrum, ✔️                                                        |
+| Project Management  | Scrum  ✔️                                                        |
 | Architecture Design | 🤯                                                               |
 |        Java         | Spring MVC, Spring Cloud, JPA / Hivernate, JMS and etc.          |
 |      Big Data       | Spark DataFrame, Spark SQL, Spark MLlib, HiveQL, ~~MapReduce~~, Kafka |
 |       Python        | Flask, SQLAlchemy                                                |
 |     JavaScript      | ReactJS, AntD, Bootstrap                                         |
+
+
+## Contact
+- **Email** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jason.ge.wu[@]()gmail.com &nbsp;
+- **LinkedIn** : https://www.linkedin.com/in/ge-wu
+- **Blog** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://jason-gew.github.io
 
 
 ## Slogan
