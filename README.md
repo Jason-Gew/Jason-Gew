@@ -37,7 +37,7 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 
 ---
 <img src="https://lc-gluttony.s3.amazonaws.com/xavRfmuNYmLc/982db92253904dbc1bc4.jpg/Vancouver-Cove-Forest-Jason.jpg" 
-    alt="View" width="100%" height="100%"  ondragstart="return false;"  onContextMenu="return false;"
+    alt="View" ondragstart="return false;"  onContextMenu="return false;"
     style="zoom:50%;"
 />
 ---
