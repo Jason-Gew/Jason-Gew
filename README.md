@@ -1,20 +1,20 @@
 ## Introduction
 
-Senior Software Development Engineer, [Oracle Certified Professional](https://www.youracclaim.com/badges/a5f980ab-e5d8-4ae4-96b8-f6615423dd6e/public_url) Java Developer. 
+Senior Software Development Engineer, [Oracle Certified Professional](https://www.credly.com/badges/a5f980ab-e5d8-4ae4-96b8-f6615423dd6e/public_url) Java Developer. 
 Engaged in PaaS Cloud / Distributed Systems, Big Data Analytical Engine, IoT End-2-End Solutions,
 Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 
 
 ## Skills
 
-|        Name         | Content                                                          |
-| :-----------------: | ---------------------------------------------------------------- |
-| Project Management  | Scrum  ✔️                                                        |
-| Architecture Design | 🤯                                                               |
-|        Java         | Spring MVC, Spring Cloud, JPA / Hivernate, JMS and etc.          |
-|      Big Data       | Spark DataFrame, Spark SQL, Spark MLlib, HiveQL, ~~MapReduce~~, Kafka |
-|       Python        | Flask, SQLAlchemy                                                |
-|     JavaScript      | ReactJS, AntD, Bootstrap                                         |
+|        Name         | Content                                                                     |
+| :-----------------: | --------------------------------------------------------------------------- |
+| Project Management  | Scrum  ✔️                                                                  |
+| Architecture Design | 🤯                                                                         |
+|        Java         | Spring Boot, Spring Cloud, JPA / Hibernate, MyBatis, JMS and etc.           |
+|      Big Data       | Spark Dataframe/Dataset, Spark SQL, Spark MLlib, Hive, ~~MapReduce~~, Kafka |
+|       Python        | Flask, SQLAlchemy                                                           |
+|     JavaScript      | ReactJS, AntD, Bootstrap                                                    |
 
 
 ## Contact
