@@ -13,6 +13,7 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 | Architecture Design | 🤯                                                                         |
 |        Java         | Spring Boot, Spring Cloud, JPA / Hibernate, MyBatis, JMS and etc.           |
 |      Big Data       | Spark Dataframe/Dataset, Spark SQL, Spark MLlib, Hive, ~~MapReduce~~, Kafka |
+|    RDBMS & NoSQL    | MySQL, Redis, HBase, ElasticSearch, DynamoDB                                |
 |       Python        | Flask, SQLAlchemy                                                           |
 |     JavaScript      | ReactJS, AntD, Bootstrap                                                    |
 
