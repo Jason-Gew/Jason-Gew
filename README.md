@@ -37,9 +37,15 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 - Innovative Projects 👨🏻‍💻 📈
 
 ---
+
+<img src="https://lc-gluttony.s3.amazonaws.com/xavRfmuNYmLc/lo5V0AfLaU6xkCEheN6ebdIUCyYjHoD4/medivh_diary.gif" alt="麦迪文日记" style="zoom:60%;"/>
+
+---
+
 <img src="https://lc-gluttony.s3.amazonaws.com/xavRfmuNYmLc/982db92253904dbc1bc4.jpg/Vancouver-Cove-Forest-Jason.jpg" 
     alt="View" ondragstart="return false;"  onContextMenu="return false;"
     style="zoom:50%;"
 />
+
 ---
-<img src="https://lc-gluttony.s3.amazonaws.com/xavRfmuNYmLc/lo5V0AfLaU6xkCEheN6ebdIUCyYjHoD4/medivh_diary.gif" alt="麦迪文日记" style="zoom:50%;"/>
+
