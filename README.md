@@ -23,7 +23,7 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 - **Blog** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://jason-gew.github.io
 - **微信公众号** : 麦迪文日记
 
-<img src="https://lc-gluttony.s3.amazonaws.com/xavRfmuNYmLc/lo5V0AfLaU6xkCEheN6ebdIUCyYjHoD4/medivh_diary.gif" alt="麦迪文日记" />
+<img src="https://lc-gluttony.s3.amazonaws.com/xavRfmuNYmLc/lo5V0AfLaU6xkCEheN6ebdIUCyYjHoD4/medivh_diary.gif" alt="麦迪文日记" style="zoom:50%;"/>
 
 ## Slogan
 > Life is not only about code and work, but also fulfill with great moments. 
