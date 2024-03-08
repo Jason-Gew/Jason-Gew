@@ -21,7 +21,7 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 ## Contact
 - **Email** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jason.ge.wu[@]()gmail.com &nbsp;
 - **Blog** : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://jason-gew.github.io
-- **微信公众号** : 麦迪文日记
+- **微信公众号** : [麦迪文日记](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4NzgwNzk3NQ==)
 
 ## Slogan
 > Life is not only about code and work, but also fulfill with great moments. 
