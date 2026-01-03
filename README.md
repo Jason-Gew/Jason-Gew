@@ -1,7 +1,7 @@
 ## Introduction
 
-Senior Software Development Engineer, [Oracle Certified Professional](https://www.credly.com/badges/a5f980ab-e5d8-4ae4-96b8-f6615423dd6e/public_url) Java Developer. 
-Engaged in SaaS Cloud / Distributed Systems, Big Data Strategy Engine, IoT End-2-End Solutions,
+Staff Software Development Engineer, [Oracle Certified Professional](https://www.credly.com/badges/a5f980ab-e5d8-4ae4-96b8-f6615423dd6e/public_url) Java Developer. 
+Engaged in SaaS Cloud / Distributed Systems, Big Data Strategy Engine, RAG | Knowledge Base End-2-End Solutions,
 Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 
 
@@ -10,12 +10,13 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 |        Name         | Content                                                                     |
 | :-----------------: | --------------------------------------------------------------------------- |
 | Project Management  | Scrum  ✔️                                                                  |
-| Architecture Design | 🤯                                                                         |
-|        Java         | Spring Boot, Spring Cloud, JPA / Hibernate, MyBatis, JMS and etc.           |
-|      Big Data       | Spark Dataframe/Dataset, Spark SQL, Spark MLlib, Hive, ~~MapReduce~~, Kafka |
+| Architecture Design | Distributed Systems, Feature Engineering, Risk Management, IoT Systems      |
+|         Java        | Spring Boot, Spring Cloud, JPA, MyBatis, JMS, Spring AI and etc.            |
+|       Big Data      | Spark Dataframe/Dataset, Spark SQL, Spark MLlib, Hive, ~~MapReduce~~        |
+|          AI         | LangChain, Knowledge Base & RAG, Agents & MCP, LLM SFT                      |
+|      Streaming      | Kafka, RocketMQ，Flink                                                      |
 |    RDBMS & NoSQL    | MySQL, Redis, HBase, ElasticSearch, DynamoDB                                |
-|       Python        | Flask, SQLAlchemy                                                           |
-|     JavaScript      | ReactJS, AntD, Bootstrap                                                    |
+|       Python        | Flask, SQLAlchemy, Numpy, Scikit-Learn                                      |
 
 
 ## Contact
