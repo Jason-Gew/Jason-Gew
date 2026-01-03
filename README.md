@@ -14,7 +14,7 @@ Financial Risk Management and **A**nti-**M**oney **L**aundering Platform.
 |         Java        | Spring Boot, Spring Cloud, JPA, MyBatis, JMS, Spring AI and etc.            |
 |       Big Data      | Spark Dataframe/Dataset, Spark SQL, Spark MLlib, Hive, ~~MapReduce~~        |
 |          AI         | LangChain, Knowledge Base & RAG, Agents & MCP, LLM SFT                      |
-|      Streaming      | Kafka, RocketMQ，Flink                                                      |
+|      Streaming      | Kafka, RocketMQ, Flink                                                      |
 |    RDBMS & NoSQL    | MySQL, Redis, HBase, ElasticSearch, DynamoDB                                |
 |       Python        | Flask, SQLAlchemy, Numpy, Scikit-Learn                                      |
 
